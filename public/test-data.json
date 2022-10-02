@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "name": "Richard Dawkins",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1?v=4",
+        "username": "selfishgene",
+        "age":35,
+        "profession":"Accountant",
+        "contact":"+91 98923 47541"
+    },
+    {
+        "id": 2182438,
+        "name": "Yusuf Ansari",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2182438?v=4",
+        "username": "samar93",
+        "age":28,
+        "profession":"Civil Engineer",
+        "contact":"+91 84336 42131"
+    },
+    {
+        "id": 2,
+        "name": "Ervin Schrodinger",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2?v=4",
+        "username": "deadcat",
+        "age":26,
+        "profession":"Game developer",
+        "contact":"+91 82664 84632"
+    },
+    {
+        "id": 3,
+        "name": "Marlon Brando",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3?v=4",
+        "username": "godfather",
+        "age":45,
+        "profession":"businessman",
+        "contact":"+91 95326 65321"
+    },
+    {
+        "id": 4,
+        "name": "Babu Rao",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4?v=4",
+        "username": "babubhaiya01",
+        "age":41,
+        "profession":"Software Engineer",
+        "contact":"+91 96845 43892"
+    },
+    {
+        "id": 5,
+        "name": "Mystic",
+        "avatar_url": "https://avatars.githubusercontent.com/u/5?v=4",
+        "username": "mysteriouslady666",
+        "age":23,
+        "profession":"Astrologer",
+        "contact":"+91 98485 36486"
+    },
+    {
+        "id": 6,
+        "name": "George Bernard",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6?v=4",
+        "username": "author54",
+        "age":39,
+        "profession":"Banker",
+        "contact":"+91 98674 36795"
+    },
+    {
+        "id": 7,
+        "name": "Zidane Zorovich",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7?v=4",
+        "username": "zee13",
+        "age":32,
+        "profession":"Web Designer",
+        "contact":"+91 88961 56975"
+    },
+    {
+        "id": 8,
+        "name": "Sohail Chougle",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82?v=4",
+        "username": "chougle1993",
+        "age":36,
+        "profession":"Lawyer",
+        "contact":"+91 92515 65894"
+    },
+    {
+        "id": 9,
+        "name": "Xidane Xulu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/93?v=4",
+        "username": "xulushaka11",
+        "age":26,
+        "profession":"Psychologist",
+        "contact":"+91 99212 41653"
+    },
+    {
+        "id": 10,
+        "name": "Henry Crowford",
+        "avatar_url": "https://avatars.githubusercontent.com/u/18?v=4",
+        "username": "hellohenry",
+        "age":21,
+        "profession":"Cartoonist",
+        "contact":"+91 93215 86625"
+    },
+    {
+        "id": 11,
+        "name": "Kiran Reddy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/25?v=4",
+        "username": "kiranr1989",
+        "age":39,
+        "profession":"Butcher",
+        "contact":"+91 85163 61522"
+    },
+    {
+        "id": 12,
+        "name": "Leigh Lennon",
+        "avatar_url": "https://avatars.githubusercontent.com/u/48?v=4",
+        "username": "lennonelectric07",
+        "age":41,
+        "profession":"Teacher",
+        "contact":"+91 84512 65152"
+    },
+    {
+        "id": 13,
+        "name": "Peter Pattinson",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19?v=4",
+        "username": "parkerpeter",
+        "age":38,
+        "profession":"Optician",
+        "contact":"+91 65153 61532"
+    },
+    {
+        "id": 14,
+        "name": "James Bogard",
+        "avatar_url": "https://avatars.githubusercontent.com/u/70?v=4",
+        "username": "journaljimmy007",
+        "age":33,
+        "profession":"Estate Agent",
+        "contact":"+91 61321 65232"
+    },
+    {
+        "id": 15,
+        "name": "Tyler Cruise",
+        "avatar_url": "https://avatars.githubusercontent.com/u/51?v=4",
+        "username": "typetyler619",
+        "age":48,
+        "profession":"Magician",
+        "contact":"+91 98644 61693"
+    },
+    {
+        "id": 16,
+        "name": "Felix Andolini",
+        "avatar_url": "https://avatars.githubusercontent.com/u/23?v=4",
+        "username": "fastandfurious",
+        "age":42,
+        "profession":"Mechanical Engineer",
+        "contact":"+91 98623 98162"
+    },
+    {
+        "id": 17,
+        "name": "Oscar",
+        "avatar_url": "https://avatars.githubusercontent.com/u/77?v=4",
+        "username": "Oswald456",
+        "age":24,
+        "profession":"Finance intern",
+        "contact":"+91 99641 65342"
+    },
+    {
+        "id": 18,
+        "name": "Andy Carlton",
+        "avatar_url": "https://avatars.githubusercontent.com/u/83?v=4",
+        "username": "aforandy85",
+        "age":29,
+        "profession":"Photographer",
+        "contact":"+91 95674 48698"
+    },
+    {
+        "id": 19,
+        "name": "Dustin Pitt",
+        "avatar_url": "https://avatars.githubusercontent.com/u/95?v=4",
+        "username": "cars4life",
+        "age":36,
+        "profession":"Mechanic",
+        "contact":"+91 84512 65152"
+    },
+    {
+        "id": 20,
+        "name": "Ray Michael",
+        "avatar_url": "https://avatars.githubusercontent.com/u/87?v=4",
+        "username": "raypet1979",
+        "age":38,
+        "profession":"Veterinary",
+        "contact":"+91 99153 61532"
+    },
+    {
+        "id": 21,
+        "name": "Jay Shawn",
+        "avatar_url": "https://avatars.githubusercontent.com/u/75?v=4",
+        "username": "justjay90",
+        "age":33,
+        "profession":"Aerospace Engineer",
+        "contact":"+91 96589 69682"
+    },
+    {
+        "id": 22,
+        "name": "Simon Whistler",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76?v=4",
+        "username": "simongogo",
+        "age":48,
+        "profession":"Software Developer",
+        "contact":"+91 98667 64895"
+    },
+    {
+        "id": 23,
+        "name": "John Orton",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36?v=4",
+        "username": "mrelectric",
+        "age":42,
+        "profession":"Electrician",
+        "contact":"+91 97851 36422"
+    },
+    {
+        "id": 24,
+        "name": "salvatore brown",
+        "avatar_url": "https://avatars.githubusercontent.com/u/37?v=4",
+        "username": "salessalvy87",
+        "age":44,
+        "profession":"Sales Manager",
+        "contact":"+91 99648 65152"
+    }
+ ]

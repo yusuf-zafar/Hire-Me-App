@@ -1,0 +1,36 @@
+html{
+    background: rgb(208, 211, 208);
+}
+#container{
+   margin: 10px 10px 10px 50px;
+}
+.main{
+    color: #504c4c;
+    text-align: center;
+}
+h1,h3,h4{
+    color: #373333;
+}
+form{
+    text-align: center;
+}
+input{
+    border: 1px dashed grey;
+    border-radius: 5px;
+    outline: none;
+}
+button{
+    border: 1px solid rgb(116, 114, 114);
+    background-color: rgb(151, 160, 160);
+    cursor: pointer;
+    color: white;
+}
+button:hover{
+    background-color: rgb(118, 126, 126);
+}
+button:active{
+    background-color: rgb(90, 95, 95);
+}
+img{
+    border-radius: 8px;
+}

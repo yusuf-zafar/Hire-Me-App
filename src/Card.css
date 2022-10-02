@@ -1,0 +1,30 @@
+.profile-card {
+    display: inline-block;
+    border: 1px solid #9e9e9e;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px 1px #9e9e9e;
+    background-color: #555e8960;
+    margin: 10px 10px;
+    width: 250px;
+    height:200px;
+ }
+  
+ .profile-image {
+    width: 80px;
+    height: 80px;
+    margin:5px;
+ }
+  
+ .profile-details {
+    margin: 0 4px;
+ }
+  
+ .profile-details > h4 {
+    margin: 0;
+ }
+  
+ .profile-data {
+    color: #24213d;
+    /* font-style: italic; */
+    margin: 4px 0;
+ }
